@@ -1,5 +1,5 @@
 # Project Title
-**Banking Data Analysis & Prediction**
+**Understanding Social Media User Behavior and Engagement Patterns**
 
 ## Team Information
 **Team Bigbytes** consists of three members: Yujin (leader), Evan, and Biraj. Yujin oversees project coordination and data analysis, Evan handles model development and validation, and Biraj manages application development and data tasks. Together, the team collaborates to analyze banking data and build predictive solutions.
