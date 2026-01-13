@@ -1,16 +1,18 @@
 # Project Title
+**Banking Data Analysis & Prediction**
 
 ## Team Information
+**Team Bigbytes** consists of three members: Yujin (leader), Evan, and Biraj. Yujin oversees project coordination and data analysis, Evan handles model development and validation, and Biraj manages application development and data tasks. Together, the team collaborates to analyze banking data and build predictive solutions.
 
 ### Team Name
-*Replace this with your team name*
+Bigbytes
 
 ### Team Members
-1. *Member 1 Name (GitHub Username)*
-2. *Member 2 Name (GitHub Username)*
-3. *Member 3 Name (GitHub Username)*
+1. **Yujin** (GitHub: `yujin-adhikarii`)
+2. **Evan** (GitHub: `bennisale98-dev`)
+3. **Biraj** (GitHub: `bishadgautam7-hub`)
 
 ### Task Division
-- **Member 1**: *Describe tasks assigned (e.g., data analysis and EDA)*
-- **Member 2**: *Describe tasks assigned (e.g., Model validation and creation)*
-- **Member 3**: *Describe tasks assigned (e.g., application development and data tasks)*
+- **Yujin (Leader)**: Coordinating the team, performing data cleaning, exploratory data analysis (EDA), and feature engineering.  
+- **Evan**: Developing, training, and validating predictive models for banking outcomes.  
+- **Biraj**: Handling application development, integrating models, and managing data processing tasks.
